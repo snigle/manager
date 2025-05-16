@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.55](https://github.com/ovh/manager/compare/@ovh-ux/manager-billing-app@0.2.54...@ovh-ux/manager-billing-app@0.2.55) (2025-05-15)
+
+**Note:** Version bump only for package @ovh-ux/manager-billing-app
+
+
+
+
+
+## [0.2.54](https://github.com/ovh/manager/compare/@ovh-ux/manager-billing-app@0.2.53...@ovh-ux/manager-billing-app@0.2.54) (2025-05-14)
+
+**Note:** Version bump only for package @ovh-ux/manager-billing-app
+
+
+
+
+
+## [0.2.53](https://github.com/ovh/manager/compare/@ovh-ux/manager-billing-app@0.2.52...@ovh-ux/manager-billing-app@0.2.53) (2025-05-12)
+
+**Note:** Version bump only for package @ovh-ux/manager-billing-app
+
+
+
+
+
 ## [0.2.52](https://github.com/ovh/manager/compare/@ovh-ux/manager-billing-app@0.2.51...@ovh-ux/manager-billing-app@0.2.52) (2025-05-06)
 
 **Note:** Version bump only for package @ovh-ux/manager-billing-app

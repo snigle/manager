@@ -3,6 +3,44 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [19.11.1](https://github.com/ovh/manager/compare/@ovh-ux/manager-web@19.11.0...@ovh-ux/manager-web@19.11.1) (2025-05-15)
+
+
+### Bug Fixes
+
+* **i18n:** add missing translations [CDS 3970] ([c66b0ed](https://github.com/ovh/manager/commit/c66b0edc69907ee7682de6fc469f2693dbc97bb5))
+* **i18n:** add missing translations [CDS 3983] ([3de9042](https://github.com/ovh/manager/commit/3de90422652ddaf4f7ef30e43d59050518d22811))
+* **i18n:** add missing translations [CDS 4000] ([f065814](https://github.com/ovh/manager/commit/f0658149ca7294361082ef49ed4d795b42ed0dc8))
+* **i18n:** add missing translations [CDS 4012] ([dd2d7d8](https://github.com/ovh/manager/commit/dd2d7d837dd48025b32a5500331dc1c213e7ea3a))
+
+
+
+
+
+# [19.11.0](https://github.com/ovh/manager/compare/@ovh-ux/manager-web@19.10.20...@ovh-ux/manager-web@19.11.0) (2025-05-12)
+
+
+### Bug Fixes
+
+* **web:** removing target blank on ongoing-operation links ([#16893](https://github.com/ovh/manager/issues/16893)) ([6b90753](https://github.com/ovh/manager/commit/6b9075385f74a1db7f740b584f0ef3d5d5d2f2d4)), closes [#MANAGER-18123](https://github.com/ovh/manager/issues/MANAGER-18123)
+
+
+### Features
+
+* **web.zone:** add dns server section for zone standalone ([#16859](https://github.com/ovh/manager/issues/16859)) ([af21e8f](https://github.com/ovh/manager/commit/af21e8fb176bf3d0a3c44ff96866eb99b6182793)), closes [#MANAGER-13869](https://github.com/ovh/manager/issues/MANAGER-13869)
+
+
+
+
+
+## [19.10.20](https://github.com/ovh/manager/compare/@ovh-ux/manager-web@19.10.19...@ovh-ux/manager-web@19.10.20) (2025-05-12)
+
+**Note:** Version bump only for package @ovh-ux/manager-web
+
+
+
+
+
 ## [19.10.19](https://github.com/ovh/manager/compare/@ovh-ux/manager-web@19.10.18...@ovh-ux/manager-web@19.10.19) (2025-05-08)
 
 

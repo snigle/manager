@@ -3,6 +3,48 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.2](https://github.com/ovh/manager/compare/@ovh-ux/manager-web-ongoing-operations-app@1.3.1...@ovh-ux/manager-web-ongoing-operations-app@1.3.2) (2025-05-15)
+
+
+### Bug Fixes
+
+* **i18n:** add missing translations [CDS 3970] ([c66b0ed](https://github.com/ovh/manager/commit/c66b0edc69907ee7682de6fc469f2693dbc97bb5))
+* **i18n:** add missing translations [CDS 4000] ([f065814](https://github.com/ovh/manager/commit/f0658149ca7294361082ef49ed4d795b42ed0dc8))
+
+
+
+
+
+## [1.3.1](https://github.com/ovh/manager/compare/@ovh-ux/manager-web-ongoing-operations-app@1.3.0...@ovh-ux/manager-web-ongoing-operations-app@1.3.1) (2025-05-15)
+
+
+### Bug Fixes
+
+* **web-ongoing-operations:** modify page - add more controls ([#17103](https://github.com/ovh/manager/issues/17103)) ([#17104](https://github.com/ovh/manager/issues/17104)) ([cbbeaac](https://github.com/ovh/manager/commit/cbbeaacc4100f7f3089a6677b94004a85db4c5ab)), closes [#MANAGER-17981](https://github.com/ovh/manager/issues/MANAGER-17981)
+
+
+
+
+
+# [1.3.0](https://github.com/ovh/manager/compare/@ovh-ux/manager-web-ongoing-operations-app@1.2.8...@ovh-ux/manager-web-ongoing-operations-app@1.3.0) (2025-05-12)
+
+
+### Features
+
+* **web-ongoing-operations:** removing target blank ([#16899](https://github.com/ovh/manager/issues/16899)) ([d8c2e71](https://github.com/ovh/manager/commit/d8c2e715f27ddb775ec4e23a8d3f97da9fc4ce06)), closes [#MANAGER-18121](https://github.com/ovh/manager/issues/MANAGER-18121)
+
+
+
+
+
+## [1.2.8](https://github.com/ovh/manager/compare/@ovh-ux/manager-web-ongoing-operations-app@1.2.7...@ovh-ux/manager-web-ongoing-operations-app@1.2.8) (2025-05-12)
+
+**Note:** Version bump only for package @ovh-ux/manager-web-ongoing-operations-app
+
+
+
+
+
 ## [1.2.7](https://github.com/ovh/manager/compare/@ovh-ux/manager-web-ongoing-operations-app@1.2.6...@ovh-ux/manager-web-ongoing-operations-app@1.2.7) (2025-05-08)
 
 

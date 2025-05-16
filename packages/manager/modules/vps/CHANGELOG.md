@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.47.1](https://github.com/ovh/manager/compare/@ovh-ux/manager-vps@2.47.0...@ovh-ux/manager-vps@2.47.1) (2025-05-15)
+
+
+### Bug Fixes
+
+* **i18n:** add missing translations [CDS 4000] ([f065814](https://github.com/ovh/manager/commit/f0658149ca7294361082ef49ed4d795b42ed0dc8))
+* **i18n:** add missing translations [CDS 4012] ([dd2d7d8](https://github.com/ovh/manager/commit/dd2d7d837dd48025b32a5500331dc1c213e7ea3a))
+* **i18n:** add missing translations [CDS 4017] ([e02aa4a](https://github.com/ovh/manager/commit/e02aa4af4043c7909fd978f324891e5751cc7a64))
+
+
+
+
+
+# [2.47.0](https://github.com/ovh/manager/compare/@ovh-ux/manager-vps@2.46.6...@ovh-ux/manager-vps@2.47.0) (2025-05-13)
+
+
+### Features
+
+* **dedicated:** ftc update delete vps label ([#16776](https://github.com/ovh/manager/issues/16776)) ([f7c68e0](https://github.com/ovh/manager/commit/f7c68e009164d329c9f49280ff9d9f9a5d299638)), closes [#MANAGER-17990](https://github.com/ovh/manager/issues/MANAGER-17990)
+
+
+
+
+
 ## [2.46.6](https://github.com/ovh/manager/compare/@ovh-ux/manager-vps@2.46.5...@ovh-ux/manager-vps@2.46.6) (2025-05-08)
 
 
